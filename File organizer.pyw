@@ -5,8 +5,6 @@ from tkinter import *
 from tkinter import messagebox as msg
 
 # Made this function in order to clean folder
-
-
 def clean():
     # ------------------------------------------------------------------------------------------------------------------
     from tkinter import filedialog as filr
